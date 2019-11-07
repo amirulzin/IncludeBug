@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IncludeBug</string>
+    <string name="guide">1. Type in some random text in the edit text below\n\n2. Toggle the switches to a distinctly separate state per each include.\n\n3. Nav to second fragment and then nav back.</string>
+</resources>
